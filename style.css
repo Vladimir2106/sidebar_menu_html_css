@@ -1,0 +1,10 @@
+nav ul ul{
+    display: none;
+    position: absolute;  
+}
+nav ul li:hover ul{
+    display:inline; 
+    position: relative;
+}
+/* КОНЕЦ ВАРИАНТ 3 */
+/*КОНЕЦ ВЫПАДАЮЩИЙ СПИСОК МЕНЮ БЕЗ JS ТОЛЬКО НА CSS */
